@@ -2,4 +2,4 @@
 
 2. Ir al gym
 
-3. Leer 
+3. Leer documentación de git
