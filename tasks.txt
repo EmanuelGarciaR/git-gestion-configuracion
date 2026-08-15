@@ -2,6 +2,6 @@
 
 2. Ir al gym
 
-3. Leer 
+3. Leer documentación avanzada
 
 4. Practicar Rebase
